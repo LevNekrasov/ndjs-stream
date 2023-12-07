@@ -1,0 +1,20 @@
+[
+    {
+        "endTime": "2023-12-07T11:57:27.732Z",
+        "iterations": 9,
+        "success": 8,
+        "failed": 1
+    },
+    {
+        "endTime": "2023-12-07T11:58:59.714Z",
+        "iterations": 2,
+        "success": 1,
+        "failed": 1
+    },
+    {
+        "endTime": "2023-12-07T11:59:23.997Z",
+        "iterations": 4,
+        "success": 1,
+        "failed": 3
+    }
+]
